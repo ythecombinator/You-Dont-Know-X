@@ -1,0 +1,24 @@
+# This project uses .gitlabels <https://github.com/elliottcable/.gitlabels>
+# to tag commits so humans can better understand the scope of changes, and 
+# tools can help visualising changes.
+
+# For further information around this, check our Git commit guidelines at:
+# <https://github.com/ythecombinator/You-Dont-Know-X/CONTRIBUTING.md>
+
+feat (new feature)
+fix (bug fix)
+docs (changes to documentation)
+style (formatting, missing semi colons, etc; no code change)
+refactor (refactoring production code)
+test (adding missing tests, refactoring tests; no production code change)
+
+- (new)             indicates new content or features are introduced
+    - (unit)        a new post, paper, book etc. is introduced for an existing category
+    - (category)    a new category/subcategory is introduced
+
+- (fix)             indicates changes that fix outstanding problems, misconceptions etc.
+
+- (style)           indicates a commit that only changes style guide of this document
+- (doc)             indicates commits that change commentary, documentation etc.
+
+- (chore)           updating project organization, automation etc.
