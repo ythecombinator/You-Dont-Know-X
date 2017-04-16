@@ -1,8 +1,19 @@
-<div align="center">
+<h1 align="center">
 	<img width="400" src="logo.png" alt="You Don't Know X">
 	<br>
 	<br>
-</div>
+</h1>
+
+<br>
+<br>
+
+<p align="center">
+	<b>✨"The mind, once stretched by a new idea, never regains its original dimensions" ✨</b>
+    <br>
+     ~ probably ~<i> Oliver Wendell Holmes, Sr </i>
+</p>
+
+<br>
 
 ---
 
