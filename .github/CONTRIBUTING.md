@@ -1,3 +1,13 @@
+# Contributing
+
+## Table of Contents
+
+<!-- DO NOT EDIT THE COMMENTS BELOW -->
+
+<!-- toc -->
+
+<!-- tocstop -->
+
 ## General Guides
 
 > Describes how Items & Sections are annotated.
@@ -75,9 +85,11 @@ E.g.
 
 In order to uptade the **Table of Contents** then run:
 
+> Make sure you have both [Node.js](https://nodejs.org/) and *npm*.
+
 ```sh
 npm install
-npm run toc
+npm start
 ```
 
 ## Git Commit Guidelines

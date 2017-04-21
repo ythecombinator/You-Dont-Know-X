@@ -1,0 +1,39 @@
+{
+  "name": "You-Dont-Know-X",
+  "version": "1.0.0",
+  "description": "A curated list of inspiring resources which show you don't know that much about something you thought you knew.",
+  "main": "",
+  "scripts": {
+    "generate:main": "markdown-toc README.md -i",
+    "generate:contributing": "markdown-toc .github/CONTRIBUTING.MD -i",
+    "watch:main": "onchange 'README.md' -- npm run generate:main",
+    "watch:contributing": "onchange 'README.md' -- npm run generate:contributing",
+    "start": "run-p watch:main watch:contributing"
+  },
+  "dependencies": {
+    "markdown-toc": "^1.1.0",
+    "npm-run-all": "^4.0.2",
+    "onchange": "^3.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ythecombinator/You-Dont-Know-X.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome list",
+    "curated list",
+    "algorithms",
+    "compilers",
+    "data structures",
+    "paradigms",
+    "languages"
+  ],
+  "author": "matt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ythecombinator/You-Dont-Know-X/issues"
+  },
+  "homepage": "https://github.com/ythecombinator/You-Dont-Know-X"
+}
