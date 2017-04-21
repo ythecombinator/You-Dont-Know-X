@@ -156,8 +156,8 @@ Or, in case of multiple issues:
 
 An example commit would be:
 
-`item (main list): add "The Genuine Sieve of Eratosthenes" paper`
+`item (Math): add "The Genuine Sieve of Eratosthenes" paper`
 
 Or:
 
-`category (main list): add "Programming Languages Theory" category`
+`category (root): add "Programming Languages Theory" category`
