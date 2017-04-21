@@ -1,5 +1,58 @@
 # Contributing
 
+## General Guides
+
+### Adding an Item
+
+Please ensure your item adheres to the following format:
+
+```markdown
+- [Item Title](item link)
+  - **Author(s)**: [*Author Name*](author link)
+  - **Tags**: *tag1*, *tag2*, ..., *tagN*
+  - **Language**: Item Language <Item Language Flag Emoji>
+```
+
+Where:
+
+- **Item Title**:
+  - *isRequired*: `true`
+  - type: `String`
+- **item link**:
+  - *isRequired*: `true`
+  - type: `String`
+- **Author Name**:
+  - *isRequired*: `true`
+  - type: `String`
+- **author link**:
+  - *isRequired*: `false`
+  - type: `String`
+- **Tags**:
+  - *isRequired*: `true`
+  - type: `Array<String>`
+- **Item Language**:
+  - *isRequired*: `true` (if other than English)
+  - type: `String`
+- **Item Language Flag Emoji**:
+  - *isRequired*: `false`
+  - type: `String<Emoji>`
+
+E.g.
+
+```markdown
+- [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
+  - **Author(s)**: [*Melissa E. O’Neill*](https://www.cs.hmc.edu/~oneill/)
+  - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
+  - **Language**: *English* 🇬🇧
+```
+
+Which renders to:
+
+- [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
+  - **Author(s)**: [*Melissa E. O’Neill*](https://www.cs.hmc.edu/~oneill/)
+  - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
+  - **Language**: *English* 🇬🇧
+
 ## Git Commit Guidelines
 
 > Describes how Git commits are annotated.
