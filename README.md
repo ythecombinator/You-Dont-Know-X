@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-	<a href="">Topic 1</a>&nbsp;&nbsp;&nbsp;
+	<a href=".github/CONTRIBUTING.md">Contribution Guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="">Topic 2</a>&nbsp;&nbsp;&nbsp;
 	<a href="">Topic 3</a>&nbsp;&nbsp;&nbsp;
 	<a href="">Topic 4</a>
@@ -33,6 +33,7 @@
 <!-- toc -->
 
 - [Math](#math)
+- [Programming Languages](#programming-languages)
 - [Security](#security)
 
 <!-- tocstop -->
@@ -42,6 +43,8 @@
 - [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
   - **Author(s)**: [*Melissa E. O’Neill*](https://www.cs.hmc.edu/~oneill/)
   - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
+
+## Programming Languages
 
 ## Security
 
