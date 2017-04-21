@@ -44,3 +44,7 @@
   - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
 
 ## Security
+
+- [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
+  - **Author(s)**: [*Diogo Mónica*](https://diogomonica.com/)
+  - **Tags**: *Docker*, *security*
