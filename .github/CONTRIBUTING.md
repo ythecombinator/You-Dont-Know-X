@@ -1,6 +1,6 @@
-# Contributing
-
 ## General Guides
+
+> Describes how Items & Sections are annotated.
 
 ### Adding an Item
 
@@ -52,6 +52,33 @@ Which renders to:
   - **Author(s)**: [*Melissa E. O’Neill*](https://www.cs.hmc.edu/~oneill/)
   - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
   - **Language**: *English* 🇬🇧
+
+### Adding a Section
+
+Please ensure your section adheres to the following format:
+
+```markdown
+## Section Title
+```
+
+Where:
+
+- **Section Title**:
+  - *isRequired*: `true`
+  - type: `String`
+
+E.g.
+
+```markdown
+## Algorithms
+```
+
+In order to uptade the **Table of Contents** then run:
+
+```sh
+npm install
+npm run toc
+```
 
 ## Git Commit Guidelines
 
