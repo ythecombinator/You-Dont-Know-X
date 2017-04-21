@@ -6,6 +6,19 @@
 
 <!-- toc -->
 
+- [General Guides](#general-guides)
+  * [Adding an Item](#adding-an-item)
+  * [Adding a Section](#adding-a-section)
+- [Git Commit Guidelines](#git-commit-guidelines)
+  * [The reasons for these conventions](#the-reasons-for-these-conventions)
+  * [Format of the commit message](#format-of-the-commit-message)
+    + [Allowed `` values](#allowed--values)
+    + [Example `` values](#example--values)
+    + [Body](#body)
+    + [Footer](#footer)
+      - [Referencing Issues](#referencing-issues)
+    + [Wrapping It All Together](#wrapping-it-all-together)
+
 <!-- tocstop -->
 
 ## General Guides
