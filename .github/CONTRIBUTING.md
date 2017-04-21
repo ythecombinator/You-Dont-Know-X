@@ -117,7 +117,7 @@ It should not be longer than `80` characters, second line is always blank and ot
 
 |  `<type>`  |                               meaning                                |
 |------------|----------------------------------------------------------------------|
-| `topic`     | a new post, paper, book etc. is introduced for an existing category  |
+| `item`     | a new post, paper, book etc. is introduced for an existing category  |
 | `category` | a new category/subcategory is introduced                             |
 | `fix`      | indicates changes that fix outstanding problems, misconceptions etc. |
 | `style`    | indicates a commit that only changes style guide of this document    |
@@ -156,7 +156,7 @@ Or, in case of multiple issues:
 
 An example commit would be:
 
-`topic (main list): add "The Genuine Sieve of Eratosthenes" paper`
+`item (main list): add "The Genuine Sieve of Eratosthenes" paper`
 
 Or:
 
