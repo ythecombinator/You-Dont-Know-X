@@ -32,6 +32,8 @@
 
 <!-- toc -->
 
+- [Math](#math)
+
 <!-- tocstop -->
 
 ## Math
