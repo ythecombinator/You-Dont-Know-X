@@ -34,6 +34,7 @@
 
 - [Math](#math)
 - [Programming Languages](#programming-languages)
+  * [JavaScript](#javascript)
 - [Security](#security)
 
 <!-- tocstop -->
@@ -45,6 +46,8 @@
   - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
 
 ## Programming Languages
+
+### JavaScript
 
 ## Security
 
