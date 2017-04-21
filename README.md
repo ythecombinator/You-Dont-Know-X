@@ -33,6 +33,7 @@
 <!-- toc -->
 
 - [Math](#math)
+- [Security](#security)
 
 <!-- tocstop -->
 
@@ -41,3 +42,5 @@
 - [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
   - **Author(s)**: [*Melissa E. O’Neill*](https://www.cs.hmc.edu/~oneill/)
   - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
+
+## Security
