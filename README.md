@@ -48,6 +48,10 @@
 
 ## Miscellaneous
 
+- [What happens when...](https://github.com/alex/what-happens-when)
+  - **Author(s)**: [*Alex Gaynor*](https://github.com/alex)
+  - **Tags**: *DNS*, *ARP*, *TLS*, *HTTP*, *Browser*, *HTML*, *JavaScript*, *CSS*
+
 ## Programming Languages
 
 ### JavaScript
