@@ -35,6 +35,7 @@
 - [Math](#math)
 - [Miscellaneous](#miscellaneous)
 - [Programming Languages](#programming-languages)
+  * [Go](#go)
   * [JavaScript](#javascript)
 - [Programming Languages Theory](#programming-languages-theory)
   * [Meta-Programming](#meta-programming)
@@ -55,6 +56,8 @@
   - **Tags**: *DNS*, *ARP*, *TLS*, *HTTP*, *Browser*, *HTML*, *JavaScript*, *CSS*
 
 ## Programming Languages
+
+### Go
 
 ### JavaScript
 
