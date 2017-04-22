@@ -36,6 +36,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Programming Languages](#programming-languages)
   * [JavaScript](#javascript)
+- [Programming Languages Theory](#programming-languages-theory)
 - [Security](#security)
 
 <!-- tocstop -->
@@ -63,6 +64,8 @@
 - [On semicolons, pseudo-technical and subjective arguments, revisited](http://robotlolita.me/2012/04/16/on-semicolons-and-subjective-discussions-revisited.html)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *Automatic Semicolon Insertion*
+
+## Programming Languages Theory
 
 ## Security
 
