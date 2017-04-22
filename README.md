@@ -59,6 +59,10 @@
 
 ### Go
 
+- [Go is not good](https://github.com/ksimka/go-is-not-good)
+  - **Author(s)**: [*Maksim Kochkin*](https://github.com/ksimka)
+  - **Tags**: *poor design*, *immature languages*
+
 ### JavaScript
 
 - [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
