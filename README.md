@@ -72,7 +72,7 @@
 
 - [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
-  - **Tags**: *ASI*
+  - **Tags**: *promises*, *asynchronous programming*
 
 - [On semicolons, pseudo-technical and subjective arguments, revisited](http://robotlolita.me/2012/04/16/on-semicolons-and-subjective-discussions-revisited.html)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
