@@ -19,6 +19,7 @@
 
 <p align="center">
 	<a href=".github/CONTRIBUTING.md">Contribution Guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="WISHLIST.md">Wishlist</a>&nbsp;&nbsp;&nbsp;
 	<a href="LICENSE.md">License</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/sindresorhus/awesome">
 	<img

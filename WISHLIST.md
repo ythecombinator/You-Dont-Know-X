@@ -1,0 +1,72 @@
+## Wishlist
+
+This is a list of topics we think that should be covered. Marking a topic with a `X` means it has already started to be populated with content.
+
+> Feel free to [contribute](https://github.com/ythecombinator/You-Dont-Know-X/blob/master/.github/CONTRIBUTING.md)!
+
+- [ ] Algorithms
+- [ ] Back-End Development
+- [ ] Big Data
+- [ ] Content Management Systems
+- [ ] Databases
+- [ ] Data Structures
+- [ ] Development Environment
+- [ ] Front-End Development
+- [ ] Functional Programming
+- [X] Math
+- [X] Miscellaneous
+- [ ] Networking
+- [ ] Platforms
+- [X] Programming Languages
+	- [ ] Ada
+	- [ ] BASIC
+	- [ ] C
+	- [ ] C++
+	- [ ] C#
+	- [ ] Clipper
+	- [ ] Clojure
+	- [ ] CoffeeScript
+	- [ ] Common LISP,
+	- [ ] Elixir
+	- [ ] Erlang
+	- [ ] F#
+	- [ ] FORTRAN
+	- [X] Go
+	- [ ] Harbour
+	- [ ] Haskell
+	- [ ] Haxe
+	- [ ] Hy
+	- [ ] Java
+	- [X] JavaScript
+	- [ ] LiveScript
+	- [ ] Lua
+	- [ ] MATLAB
+	- [ ] Nimrod
+	- [ ] OCaml
+	- [ ] Pascal
+	- [ ] PHP
+	- [ ] PogoScript
+	- [ ] Processing
+	- [ ] PureScript
+	- [ ] Python
+	- [ ] Ruby
+	- [ ] Rust
+	- [ ] Self
+	- [ ] Shell
+	- [ ] Swift
+	- [ ] TypeScript
+- [X] Programming Languages Theory
+	- [ ] Compilers
+	- [ ] DSLs & DSELs
+	- [X] Meta-Programming
+	- [ ] Programming Paradigms
+		- [ ] Aspect-Oriented
+		- [ ] Context-Oriented
+		- [ ] Dataflow
+		- [ ] Event-Driven
+		- [ ] Functional
+		- [ ] Role-Oriented
+		- [ ] Logic
+		- [ ] Object-Oriented
+- [X] Security
+- [ ] Version Control Systems

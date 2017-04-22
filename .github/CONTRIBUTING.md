@@ -12,8 +12,8 @@
 - [Git Commit Guidelines](#git-commit-guidelines)
   * [The reasons for these conventions](#the-reasons-for-these-conventions)
   * [Format of the commit message](#format-of-the-commit-message)
-    + [Allowed `` values](#allowed--values)
-    + [Example `` values](#example--values)
+    + [Allowed `type` values](#allowed-type-values)
+    + [Example `scope` values](#example-scope-values)
     + [Body](#body)
     + [Footer](#footer)
       - [Referencing Issues](#referencing-issues)
@@ -23,7 +23,7 @@
 
 ## General Guides
 
-> Describes how Items & Sections are annotated.
+> Take a look at our [wishlist](https://github.com/ythecombinator/You-Dont-Know-X/blob/master/WISHLIST.md) 😀.
 
 ### Adding an Item
 
@@ -76,6 +76,8 @@ Which renders to:
   - **Tags**: *functional programming*, *haskell*, *lazy*, *Sieve of Eratosthenes*
   - **Language**: *English* 🇬🇧
 
+> Please make sure your additions follow alphabetical order.
+
 ### Adding a Section
 
 Please ensure your section adheres to the following format:
@@ -105,6 +107,8 @@ npm install
 npm start
 ```
 
+> Please make sure your additions follow alphabetical order.
+
 ## Git Commit Guidelines
 
 > Describes how Git commits are annotated.
@@ -126,7 +130,7 @@ npm start
 
 It should not be longer than `80` characters, second line is always blank and other lines should be wrapped at `80` characters.
 
-#### Allowed `<type>` values
+#### Allowed `type` values
 
 |  `<type>`  |                               meaning                                |
 |------------|----------------------------------------------------------------------|
@@ -137,7 +141,7 @@ It should not be longer than `80` characters, second line is always blank and ot
 | `docs`     | indicates commits that change commentary, document`tion etc.         |
 | `chore`    | updating project organization, automation etc.                       |
 
-#### Example `<scope>` values
+#### Example `scope` values
 
 - main list
 - global
