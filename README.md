@@ -19,14 +19,16 @@
 
 <p align="center">
 	<a href=".github/CONTRIBUTING.md">Contribution Guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="">Topic 2</a>&nbsp;&nbsp;&nbsp;
-	<a href="">Topic 3</a>&nbsp;&nbsp;&nbsp;
-	<a href="">Topic 4</a>
+	<a href="LICENSE.md">License</a>&nbsp;&nbsp;&nbsp;
+	<img href="https://github.com/sindresorhus/awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+
 </p>
 
 <br>
 
 ## Table of Contents
+
+> Pick a knowledge area on which you think you've achieved knowledge enough.
 
 <!-- DO NOT EDIT THE COMMENTS BELOW -->
 
