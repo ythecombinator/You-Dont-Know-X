@@ -37,6 +37,7 @@
 - [Programming Languages](#programming-languages)
   * [JavaScript](#javascript)
 - [Programming Languages Theory](#programming-languages-theory)
+  * [Meta-Programming](#meta-programming)
 - [Security](#security)
 
 <!-- tocstop -->
@@ -66,6 +67,8 @@
   - **Tags**: *Automatic Semicolon Insertion*
 
 ## Programming Languages Theory
+
+### Meta-Programming
 
 ## Security
 
