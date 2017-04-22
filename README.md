@@ -78,6 +78,12 @@
 - [On semicolons, pseudo-technical and subjective arguments, revisited](http://robotlolita.me/2012/04/16/on-semicolons-and-subjective-discussions-revisited.html)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *Automatic Semicolon Insertion*
+  
+  ### Kotlin
+  
+- [Kotlin: The Good, The Bad, and the Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
+  - **Author(s)**: [*AJ Alt*](https://github.com/ajalt)
+  - **Tags(s)**: *Bad and good things using Kotlin*
 
 ## Programming Languages Theory
 
