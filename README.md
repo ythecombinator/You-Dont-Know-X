@@ -20,7 +20,10 @@
 <p align="center">
 	<a href=".github/CONTRIBUTING.md">Contribution Guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="LICENSE.md">License</a>&nbsp;&nbsp;&nbsp;
-	<img href="https://github.com/sindresorhus/awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+	<a href="https://github.com/sindresorhus/awesome">
+	<img
+	src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+	</a>
 
 </p>
 
