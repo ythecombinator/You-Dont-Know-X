@@ -1,4 +1,4 @@
-# Contributing
+## Contributing
 
 ## Table of Contents
 
