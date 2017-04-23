@@ -45,6 +45,7 @@
   * [JavaScript](#javascript)
   * [Kotlin](#kotlin)
 - [Programming Languages Theory](#programming-languages-theory)
+  * [Compilers](#compilers)
   * [Meta-Programming](#meta-programming)
 - [Security](#security)
 
@@ -87,6 +88,8 @@
   - **Tags(s)**: *Bad and good things using Kotlin*
 
 ## Programming Languages Theory
+
+### Compilers
 
 ### Meta-Programming
 
