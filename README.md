@@ -98,6 +98,10 @@
 
 ### General
 
+- [Are there any programming concepts not yet implemented? What are they?](https://www.quora.com/If-C-and-C++-give-the-best-performance-why-do-we-still-code-in-other-languages/answer/Quildreen-Motta)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *First-class operatives*, *Kernel*, *Algebraic Effect Handlers*, *Eff*,*Type-Specific Languages*, *Wyvern*
+
 ### Meta-Programming
 
 - [Towards a fully-reflective meta-programming language](http://crpit.com/confpapers/CRPITV38Neverov.pdf)
