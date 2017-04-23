@@ -49,6 +49,7 @@
   * [General](#general)
   * [Meta-Programming](#meta-programming)
   * [Programming Paradigms](#programming-paradigms)
+    + [Functional](#functional)
 - [Security](#security)
 
 <!-- tocstop -->
@@ -110,6 +111,8 @@
   - **Tags**: *compilers*, *object-oriented systems*, *meta-programming*
 
 ### Programming Paradigms
+
+#### Functional
 
 ## Security
 
