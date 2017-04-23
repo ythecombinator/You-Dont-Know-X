@@ -85,6 +85,10 @@
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *Automatic Semicolon Insertion*
 
+- [Why does ++[[]][+[]]+[+[]] return the string “10”](http://stackoverflow.com/a/7202287/7203176)
+  - **Author(s)**: [*xufox*](http://stackoverflow.com/users/4642212/xufox)
+  - **Tags**: *operators*, *precedence*, *ECMAScript*, *spec*
+
 ### Kotlin
 
 - [Kotlin: The Good, The Bad, and the Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
@@ -129,7 +133,6 @@
 	- [*Craig Chambers*](https://research.google.com/pubs/author4707.html),
 	- [*Bay-Wei Chang*](https://research.google.com/pubs/author100.html),
 	- [*Urs Hölzle*](https://research.google.com/pubs/author79.html)
-
   - **Tags**: *prototype-based inheritance*
 
 ## Security
