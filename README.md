@@ -46,6 +46,7 @@
   * [Kotlin](#kotlin)
 - [Programming Languages Theory](#programming-languages-theory)
   * [Compilers](#compilers)
+  * [General](#general)
   * [Meta-Programming](#meta-programming)
 - [Security](#security)
 
@@ -94,6 +95,8 @@
 - [If C and C++ give the best performance, why do we still code in other languages?](https://www.quora.com/If-C-and-C++-give-the-best-performance-why-do-we-still-code-in-other-languages/answer/Quildreen-Motta)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *compilers*, *C*, *C++*, *optimisations*
+
+### General
 
 ### Meta-Programming
 
