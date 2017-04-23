@@ -48,6 +48,7 @@
   * [Compilers](#compilers)
   * [General](#general)
   * [Meta-Programming](#meta-programming)
+  * [Programming Paradigms](#programming-paradigms)
 - [Security](#security)
 
 <!-- tocstop -->
@@ -107,6 +108,8 @@
 - [Towards a fully-reflective meta-programming language](http://crpit.com/confpapers/CRPITV38Neverov.pdf)
   - **Author(s)**: [*Gregory Neverov*](http://dblp.uni-trier.de/pers/hd/n/Neverov:Gregory), [*Paul Roe*](https://www.researchgate.net/profile/Paul_Roe)
   - **Tags**: *compilers*, *object-oriented systems*, *meta-programming*
+
+### Programming Paradigms
 
 ## Security
 
