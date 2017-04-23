@@ -114,6 +114,10 @@
 
 #### Functional
 
+- [Why is a functional language generally better at concurrency than OO?](https://www.quora.com/Why-is-a-functional-language-generally-better-at-concurrency-than-OO/answer/Quildreen-Motta)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *OO*, *mutability*, *side-effects*, *concurrency*
+
 ## Security
 
 - [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
