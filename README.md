@@ -50,6 +50,7 @@
   * [Meta-Programming](#meta-programming)
   * [Programming Paradigms](#programming-paradigms)
     + [Functional](#functional)
+    + [Object-Oriented](#object-oriented)
 - [Security](#security)
 
 <!-- tocstop -->
@@ -117,6 +118,8 @@
 - [Why is a functional language generally better at concurrency than OO?](https://www.quora.com/Why-is-a-functional-language-generally-better-at-concurrency-than-OO/answer/Quildreen-Motta)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *OO*, *mutability*, *side-effects*, *concurrency*
+
+#### Object-Oriented
 
 ## Security
 
