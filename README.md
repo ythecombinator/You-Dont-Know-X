@@ -91,6 +91,10 @@
 
 ### Compilers
 
+- [If C and C++ give the best performance, why do we still code in other languages?](https://www.quora.com/If-C-and-C++-give-the-best-performance-why-do-we-still-code-in-other-languages/answer/Quildreen-Motta)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *compilers*, *C*, *C++*, *optimisations*
+
 ### Meta-Programming
 
 - [Towards a fully-reflective meta-programming language](http://crpit.com/confpapers/CRPITV38Neverov.pdf)
