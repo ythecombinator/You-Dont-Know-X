@@ -56,7 +56,7 @@ This is a list of topics we think that should be covered. Marking a topic with a
 	- [ ] Swift
 	- [ ] TypeScript
 - [X] Programming Languages Theory
-	- [ ] Compilers
+	- [X] Compilers
 	- [ ] DSLs & DSELs
 	- [X] Meta-Programming
 	- [ ] Programming Paradigms
@@ -64,9 +64,9 @@ This is a list of topics we think that should be covered. Marking a topic with a
 		- [ ] Context-Oriented
 		- [ ] Dataflow
 		- [ ] Event-Driven
-		- [ ] Functional
+		- [X] Functional
 		- [ ] Role-Oriented
 		- [ ] Logic
-		- [ ] Object-Oriented
+		- [X] Object-Oriented
 - [X] Security
 - [ ] Version Control Systems
