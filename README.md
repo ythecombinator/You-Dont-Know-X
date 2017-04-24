@@ -24,8 +24,11 @@
 	<a href="https://github.com/sindresorhus/awesome">
 	<img
 	src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://ghit.me/repo/ythecombinator/You-Dont-Know-X">
+	<img
+	src="https://ghit.me/badge.svg?repo=ythecombinator/You-Dont-Know-X" alt="ghit.me">
 	</a>
-
 </p>
 
 <br>
