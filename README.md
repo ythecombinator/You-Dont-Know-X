@@ -108,7 +108,7 @@
 
 ### General
 
-- [Are there any programming concepts not yet implemented? What are they?](https://www.quora.com/If-C-and-C++-give-the-best-performance-why-do-we-still-code-in-other-languages/answer/Quildreen-Motta)
+- [Are there any programming concepts not yet implemented? What are they?](https://www.quora.com/Are-there-any-programming-concepts-not-yet-implemented-What-are-they)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *First-class operatives*, *Kernel*, *Algebraic Effect Handlers*, *Eff*,*Type-Specific Languages*, *Wyvern*
 
