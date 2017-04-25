@@ -91,6 +91,10 @@
 - [Why does ++[[]][+[]]+[+[]] return the string “10”](http://stackoverflow.com/a/7202287/7203176)
   - **Author(s)**: [*xufox*](http://stackoverflow.com/users/4642212/xufox)
   - **Tags**: *operators*, *precedence*, *ECMAScript*, *spec*
+  
+  - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+  - **Author(s)**: [*Quil*](https://github.com/getify)
+  - **Tags**: *ECMAScript*, *Education*, *E-books*
 
 ### Kotlin
 
