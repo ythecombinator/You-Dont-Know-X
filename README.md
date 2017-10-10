@@ -147,3 +147,9 @@
 - [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
   - **Author(s)**: [*Diogo Mónica*](https://diogomonica.com/)
   - **Tags**: *Docker*, *security*
+  
+## Blockchain
+
+- [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+  - **Author(s)**: [Daniel van Flymen](https://hackernoon.com/@vanflymen?source=user_popover)
+  - **Tags**: *Blockchain*, *Cryptocurrency*
