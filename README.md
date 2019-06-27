@@ -96,6 +96,10 @@
   - **Author(s)**: [*Kyle Simpson*](https://github.com/getify)
   - **Tags**: *ECMAScript*, *Education*, *E-books*
 
+- [Immer, Immutability and the Wonderful World of Proxies (talk)](https://www.youtube.com/watch?v=FKRVDfpQ9cw)
+  - **Author(s)**: [*Michel Weststrate*](https://github.com/mweststrate)
+  - **Tags**: *proxies*, *immutability*
+
 ### Kotlin
 
 - [Kotlin: The Good, The Bad, and the Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
