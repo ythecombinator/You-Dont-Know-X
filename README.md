@@ -120,6 +120,16 @@
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *First-class operatives*, *Kernel*, *Algebraic Effect Handlers*, *Eff*,*Type-Specific Languages*, *Wyvern*
 
+### Type Systems and related
+
+- [How can a programming language have no primitive types (i.e. strings, integers, booleans)?](https://www.quora.com/How-can-a-programming-language-have-no-primitive-types-i-e-strings-integers-booleans/answer/Quildreen-Motta)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *primitive types*, *built-in types*, *Lambda Calculus*
+
+- [How are higher-kinded types different from type constructors with parametrized generic types?](https://www.quora.com/How-are-higher-kinded-types-different-from-type-constructors-with-parametrized-generic-types/answer/Quildreen-Motta)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *higher-kinded types*
+
 ### Meta-Programming
 
 - [Towards a fully-reflective meta-programming language](http://crpit.com/confpapers/CRPITV38Neverov.pdf)
