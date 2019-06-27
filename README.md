@@ -46,6 +46,7 @@
 - [Programming Languages Theory](#programming-languages-theory)
   * [Compilers](#compilers)
   * [General](#general)
+  * [Type Systems and related](#type-systems-and-related)
   * [Meta-Programming](#meta-programming)
   * [Programming Paradigms](#programming-paradigms)
     + [Functional](#functional)
@@ -100,6 +101,10 @@
   - **Author(s)**: [*Michel Weststrate*](https://github.com/mweststrate)
   - **Tags**: *proxies*, *immutability*
 
+- [Why does JavaScript's await only work within async functions?](https://www.quora.com/Why-does-JavaScripts-await-only-work-within-async-functions/answer/Quildreen-Motta?fbclid=IwAR0f7j7xtTpkvJ-IkvaU0F-Fn7eYj-wgv05-WVO3bbuMFjss2ekQ3DA4fGI)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *promises*, *asynchronous programming*  
+
 ### Kotlin
 
 - [Kotlin: The Good, The Bad, and the Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
@@ -119,6 +124,10 @@
 - [Are there any programming concepts not yet implemented? What are they?](https://www.quora.com/Are-there-any-programming-concepts-not-yet-implemented-What-are-they/answer/Quildreen-Motta)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *First-class operatives*, *Kernel*, *Algebraic Effect Handlers*, *Eff*,*Type-Specific Languages*, *Wyvern*
+
+- [What are zero-cost abstractions in programming languages?](https://www.quora.com/What-are-zero-cost-abstractions-in-programming-languages/answer/Quildreen-Motta)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *abstractions*, *zero-overhead principle*, *zero-cost abstractions*
 
 ### Type Systems and related
 
@@ -145,6 +154,10 @@
 - [Why is a functional language generally better at concurrency than OO?](https://www.quora.com/Why-is-a-functional-language-generally-better-at-concurrency-than-OO/answer/Quildreen-Motta)
   - **Author(s)**: [*Quil*](https://github.com/robotlolita)
   - **Tags**: *OO*, *mutability*, *side-effects*, *concurrency*
+
+- [What are monads, in plain English? (Say, for experienced imperative/OOP language programmers, with no or little background in functional programming)?](https://www.quora.com/What-are-monads-in-plain-English-Say-for-experienced-imperative-OOP-language-programmers-with-no-or-little-background-in-functional-programming/answer/Quildreen-Motta)
+  - **Author(s)**: [*Quil*](https://github.com/robotlolita)
+  - **Tags**: *abstract algebra*, *monads*
 
 #### Object-Oriented
 
