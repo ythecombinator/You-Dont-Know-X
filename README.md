@@ -55,6 +55,7 @@
     + [Functional](#functional)
     + [Object-Oriented](#object-oriented)
 - [Security](#security)
+- [Blockchain](#blockchain)
 
 <!-- tocstop -->
 
