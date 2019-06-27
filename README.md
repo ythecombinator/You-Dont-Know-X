@@ -158,3 +158,21 @@
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
   - **Author(s)**: [Daniel van Flymen](https://hackernoon.com/@vanflymen?source=user_popover)
   - **Tags**: *Blockchain*, *Cryptocurrency*
+
+## Web Development
+
+### Front-End Development
+
+#### React
+
+- [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/)
+  - **Author(s)**: [Dan Abramov](https://github.com/gaearon)
+  - **Tags**: *Hooks*
+
+- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+  - **Author(s)**: [Dan Abramov](https://github.com/gaearon)
+  - **Tags**: *Hooks*
+
+- [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
+  - **Author(s)**: [Dan Abramov](https://github.com/gaearon)
+  - **Tags**: *Renderers*, *Elements*, *Reconciliation*, *Effects*
